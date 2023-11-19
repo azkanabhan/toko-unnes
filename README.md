@@ -1,8 +1,5 @@
-# peli-ayam
+# toko-unnes
 
-Alur Fitur Login:
-1. Memasukkan nama, email, dan password
-2. Memvalidasi masukan.
-3. Memvalidasi pengguna dengan deteksi wajah.
-4. Memasukkan nama ibu untuk validasi.
-5. Menampilkan halaman home.
+Selamat datang di kodingan kami.
+Berikut adalah beberapa kodingan yang dapat dilihat seperti apa alur program yang telah kami rancang
+dalam rangka membuat aplikasi toko-unnes
